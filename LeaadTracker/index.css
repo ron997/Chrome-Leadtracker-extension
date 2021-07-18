@@ -40,4 +40,10 @@ a {
     color: #5f9341;
 }
 
-
+button:hover{
+    background-color: darkgoldenrod;
+}
+#delete-btn:hover{
+    background-color: red;
+    color:white;
+}
